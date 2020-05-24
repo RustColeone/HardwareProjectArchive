@@ -1,0 +1,13 @@
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\bin\Debug\EpaperMqtt.exe.config
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\bin\Debug\EpaperMqtt.exe
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\bin\Debug\EpaperMqtt.pdb
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\bin\Debug\MqttLib.dll
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\bin\Debug\MqttLib.pdb
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\Epaper2in7Mqtt.csprojAssemblyReference.cache
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\EpaperMqtt.Form1.resources
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\EpaperMqtt.Properties.Resources.resources
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\Epaper2in7Mqtt.csproj.GenerateResource.cache
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\Epaper2in7Mqtt.csproj.CopyComplete
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\EpaperMqtt.exe
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\EpaperMqtt.pdb
+C:\Users\AsusPro\source\repos\EpaperMqtt\Epaper2in7Mqtt\obj\Debug\Epaper2in7Mqtt.csproj.CoreCompileInputs.cache

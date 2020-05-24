@@ -1,0 +1,9 @@
+﻿C8uapIdgxl3y
+dredrqkn
+clientID
+m13.cloudmqtt.com
+mqttdotnet/pubtest
+mqttdotnet/subtest
+18462
+ATT3jl8Tns
+6mrk8iyf26vn

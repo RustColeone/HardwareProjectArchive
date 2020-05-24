@@ -1,0 +1,38 @@
+#
+# Creating new log
+#
+2/27/2019 - 10:54:19 AM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\StreamManager.cs:line 100
+#
+# Creating new log
+#
+2/27/2019 - 10:58:07 AM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MqttLib.Core.Messages.MqttMessage.ReadCompleteBuffer(Stream str, Byte[] buffer) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttMessage.cs:line 239
+   at MqttLib.Core.Messages.MqttConnackMessage.ConstructFromStream(Stream str) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttConnackMessage.cs:line 65
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttMessage.cs:line 99
+   at MqttLib.Core.Messages.MqttConnackMessage..ctor(Stream str, Byte header) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttConnackMessage.cs:line 53
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MessageFactory.cs:line 22
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\StreamManager.cs:line 98
+#
+# Creating new log
+#
+2/27/2019 - 10:58:46 AM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MqttLib.Core.Messages.MqttMessage.ReadCompleteBuffer(Stream str, Byte[] buffer) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttMessage.cs:line 239
+   at MqttLib.Core.Messages.MqttConnackMessage.ConstructFromStream(Stream str) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttConnackMessage.cs:line 65
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttMessage.cs:line 99
+   at MqttLib.Core.Messages.MqttConnackMessage..ctor(Stream str, Byte header) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MqttConnackMessage.cs:line 53
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\Messages\MessageFactory.cs:line 22
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult) in C:\Users\win7p\Desktop\MqttDotNet-master\MqttLib\Core\StreamManager.cs:line 98
+#
+# Creating new log
+#

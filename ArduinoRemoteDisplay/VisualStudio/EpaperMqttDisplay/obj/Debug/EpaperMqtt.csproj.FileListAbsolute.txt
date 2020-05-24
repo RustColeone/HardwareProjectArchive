@@ -1,0 +1,10 @@
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\obj\Debug\EpaperMqtt.Form1.resources
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\obj\Debug\EpaperMqtt.Properties.Resources.resources
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\obj\Debug\EpaperMqtt.csproj.GenerateResource.cache
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\obj\Debug\EpaperMqtt.csproj.CoreCompileInputs.cache
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\bin\Debug\EpaperMqtt.exe.config
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\bin\Debug\EpaperMqtt.exe
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\bin\Debug\EpaperMqtt.pdb
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\obj\Debug\EpaperMqtt.exe
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\obj\Debug\EpaperMqtt.pdb
+C:\Users\AsusPro\source\repos\EpaperMqtt\EpaperMqtt\obj\Debug\EpaperMqtt.csprojAssemblyReference.cache
